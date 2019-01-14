@@ -18,14 +18,14 @@ var myMap;
 var canvas;
 
 var users = [
-	
+	{timezone: 'England',lat: 51.508530 , lon: 0.076132,num:1},	
+	{timezone: 'South Africa',lat: -26.270760 , lon:28.112268,num:1},	
 	{timezone: 'PST',lat: 36.778259 , lon:-119.417931,num:12},
 	{timezone: 'MST',lat: 46.965260 ,lon: -109.533691,num:2},
 	{timezone: 'CST',lat: 32.318230 , lon:-86.902298,num:4 },
 	{timezone: 'EST',lat: 40.730610 ,lon:  -73.935242,num:10},
 	{timezone: 'UTC',lat: 55.676098 ,lon:  12.568337,num:3},
-	{timezone: 'CET',lat: 48.864716 ,lon:  2.349014,num:4},
-	{timezone: 'SAST',lat: -26.195246,lon:  -26.195246,num:1},
+	{timezone: 'CET',lat: 48.864716 ,lon:  2.349014,num:3},
 	{timezone: 'EET',lat: 59.436962, lon:  24.753574,num:1},
 	{timezone: 'TRT',lat: 41.005,lon:  39.72694,num:1},
 	{timezone: 'UTC+4',lat: 40.177200 , lon: 44.503490,num:1},
