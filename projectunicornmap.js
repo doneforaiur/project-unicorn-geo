@@ -19,6 +19,7 @@ var canvas;
 
 var users = [
 	{timezone: 'England',lat: 51.508530 , lon: 0.076132,num:1},	
+	{timezone: 'Poland',lat: 50.287063 , lon: 21.423810,num:1},	
 	{timezone: 'South Africa',lat: -26.270760 , lon:28.112268,num:1},	
 	{timezone: 'Illinois ',lat: 41.881832 , lon:-87.623177,num:1},	
 	{timezone: 'PST',lat: 36.778259 , lon:-119.417931,num:12},
