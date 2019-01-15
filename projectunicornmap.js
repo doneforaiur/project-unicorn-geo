@@ -36,7 +36,7 @@ var users = [
 	{timezone: 'AEST',lat: -33.865143 ,lon:  151.209900,num:2},
 	{timezone: 'NZDT',lat:  -36.848461,lon: 174.763336,num:1},
 	{timezone: 'SAST', lat: -29.8561, lon: 31.0352, num: 1},
-	{timezone: 'SAST', lat: -28.45, lon: 21.25, num: 1}
+	{timezone: 'SAST', lat: -28.45, lon: 21.25, num: 1},
 	{timzone: 'cultofthepartyparrot', lat: 41.005, lon: 39.72694, num: 1}
 ]
 /*
